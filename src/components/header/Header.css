@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=McLaren&display=swap');
+Header{
+    background-color: #09032c;
+    padding: 16x 32px;
+    box-shadow: 0 0 10px 0 rgba (0, 0, 0, 0,3);
+    text-align: center;
+    margin: 0;
+}
+Header h1{
+    color: rgb(247, 209, 22);
+    font-family:"McLaren", cursive;
+    font-weight: 200;
+}
